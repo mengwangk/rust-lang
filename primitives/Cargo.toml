@@ -1,7 +1,0 @@
-[package]
-name = "primitives"
-version = "0.1.0"
-authors = ["Koh Meng Wang <mengwangk@gmail.com>"]
-edition = "2018"
-
-[dependencies]
